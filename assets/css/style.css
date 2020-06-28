@@ -12,15 +12,15 @@ body {
     font-weight: bolder;
 }
 
-.portfolio-container{
+.container{
     /* background-color: #000000; */
-    background-image: url("/assets/images/Screenshot\ \(293\).png");
+    background: url("/assets/images/Screenshot\ \(293\).png");
     width:100%;
     min-height: 600px; 
 	/* margin:auto; */
 	/* max-width:100%;
 	min-height:100%; */
-	position:relative;
+	position: relative;
     /* background:linear-gradient(transparent,  #000000 100%), url(/assets/images/Screenshot\ \(293\).png) no-repeat center; 
     backface-visibility: hidden; */
 	background-size: cover;
