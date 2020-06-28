@@ -2,14 +2,6 @@ body {
     color: #fff;
 }
 
-nav, a, .navbar-brand {
-    color: #fff;
-}
-
-.navbar-collapse, .navbar-nav, .nav-item, .nav-link {
-    color: red;
-}
-
 .navbar-brand {
     color: #fff;
     font-size: 27px;
