@@ -14,7 +14,7 @@ body {
 
 .portfolio-container{
     /* background-color: #000000; */
-    background-image: url(/assets/images/polished-Diamond.jpeg);
+    background-image: url("/assets/images/polished-Diamond.jpeg");
     width:100%;
     min-height: 600px; 
 	/* margin:auto; */
