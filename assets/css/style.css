@@ -14,7 +14,7 @@ body {
 
 .portfolio-container{
     /* background-color: #000000; */
-    background: blue;
+    background-image: url(/assets/images/MTS.jpg);
     width:100%;
     min-height: 600px; 
 	/* margin:auto; */
